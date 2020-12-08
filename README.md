@@ -1,2 +1,2 @@
-# Test of company Benefit
+# Test Benefit
 
